@@ -23,6 +23,8 @@ Theoretical kinematic calculations were performed prior to CAD modeling to ensur
 * **Shaft Center-to-Center Distance:** 60.0 mm
 * **Input / Output Speed:** 1500 RPM -> 750 RPM
 * **Theoretical Torque Multiplier:** 2.0x
+  
+![Hand-drawn Gear Calculations](gear box inside.png)
 
 ## 🛠️ CAD Methodology & Features
 * **Parametric Part Modeling:** Gears modeled using the involute curve method for realistic tooth profiles, preventing binding during rotation.
